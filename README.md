@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0001-two-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Search
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
