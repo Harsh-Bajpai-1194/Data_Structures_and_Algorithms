@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
