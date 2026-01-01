@@ -1,9 +1,5 @@
-class Solution(object):
-    def generate(self, numRows):
-        """
-        :type numRows: int
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def generate(self, numRows: int) -> List[List[int]]:
         L,L1,N=[],[],numRows
         for i in range(1,N+1):
             a=1
