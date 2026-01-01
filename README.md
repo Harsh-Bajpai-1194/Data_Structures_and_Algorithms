@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0069-sqrtx) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Depth-First Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
