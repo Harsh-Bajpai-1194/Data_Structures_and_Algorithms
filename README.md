@@ -46,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
