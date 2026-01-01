@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0118-pascals-triangle) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
