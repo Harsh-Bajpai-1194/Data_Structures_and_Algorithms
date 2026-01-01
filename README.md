@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,4 +117,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
