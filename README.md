@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0037-sudoku-solver) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
