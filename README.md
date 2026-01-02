@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0268-missing-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Depth-First Search
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Divide and Conquer
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0166-fraction-to-recurring-decimal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -181,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0268-missing-number) |
 ## Bucket Sort
 |  |
 | ------- |
