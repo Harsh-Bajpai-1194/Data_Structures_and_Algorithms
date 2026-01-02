@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
+| [0231-power-of-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
