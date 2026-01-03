@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0386-lexicographical-numbers) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0386-lexicographical-numbers) |
 ## Stack
 |  |
 | ------- |
