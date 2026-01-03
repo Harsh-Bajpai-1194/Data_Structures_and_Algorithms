@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0541-reverse-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0474-ones-and-zeroes) |
+| [0541-reverse-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0541-reverse-string-ii) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
