@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
+| [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0415-add-strings) |
+| [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0037-sudoku-solver) |
+| [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
 ## Recursion
 |  |
 | ------- |
