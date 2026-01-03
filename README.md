@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Divide and Conquer
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -264,11 +267,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
