@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0682-baseball-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 ## Binary Search
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0415-add-strings) |
 | [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
+| [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
 ## Two Pointers
 |  |
 | ------- |
