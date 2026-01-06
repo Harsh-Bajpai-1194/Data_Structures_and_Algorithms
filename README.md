@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0832-flipping-an-image) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1389-create-target-array-in-the-given-order) |
 ## Number Theory
 |  |
 | ------- |
