@@ -1,5 +1,9 @@
-class Solution:
-    def findLucky(self, arr: List[int]) -> int:
+class Solution(object):
+    def findLucky(self, arr):
+        """
+        :type arr: List[int]
+        :rtype: int
+        """
         freq = {}
         for num in arr:
             freq[num] = freq.get(num, 0) + 1
