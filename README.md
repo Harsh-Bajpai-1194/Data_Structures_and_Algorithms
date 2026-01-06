@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0966-vowel-spellchecker](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0966-vowel-spellchecker) |
 | [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
 | [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0966-vowel-spellchecker](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0966-vowel-spellchecker) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0709-to-lower-case) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
+| [0966-vowel-spellchecker](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0966-vowel-spellchecker) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
