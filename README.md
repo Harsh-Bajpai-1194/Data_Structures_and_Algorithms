@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1323-maximum-69-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1323-maximum-69-number) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 ## String
 |  |
