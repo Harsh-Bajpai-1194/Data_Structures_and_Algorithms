@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1122-relative-sort-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1122-relative-sort-array) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0840-magic-squares-in-grid) |
 | [0909-snakes-and-ladders](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0909-snakes-and-ladders) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0898-bitwise-ors-of-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
 |  |
