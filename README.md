@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-vowel-spellchecker](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0966-vowel-spellchecker) |
 | [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 ## String
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0709-to-lower-case) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0966-vowel-spellchecker](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0966-vowel-spellchecker) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 ## Trie
