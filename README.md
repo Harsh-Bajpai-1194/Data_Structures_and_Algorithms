@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-vowel-spellchecker](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0966-vowel-spellchecker) |
 | [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-vowel-spellchecker](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0966-vowel-spellchecker) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Divide and Conquer
 |  |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0869-reordered-power-of-2](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0869-reordered-power-of-2) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Sliding Window
 |  |
 | ------- |
