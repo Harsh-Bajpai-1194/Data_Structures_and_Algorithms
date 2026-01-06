@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
 | [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0812-largest-triangle-area](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0812-largest-triangle-area) |
 | [0837-new-21-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0840-magic-squares-in-grid) |
+| [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
 | [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
 ## Two Pointers
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
+| [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 ## String
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
+| [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
 ## Bucket Sort
 |  |
 | ------- |
