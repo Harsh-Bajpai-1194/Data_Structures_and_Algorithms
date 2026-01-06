@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0541-reverse-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0832-flipping-an-image](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
 | [0869-reordered-power-of-2](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0869-reordered-power-of-2) |
+| [0905-sort-array-by-parity](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
 ## Bucket Sort
 |  |
