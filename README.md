@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1089-duplicate-zeros](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1122-relative-sort-array) |
 | [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-vowel-spellchecker](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0966-vowel-spellchecker) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1122-relative-sort-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1122-relative-sort-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1122-relative-sort-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
