@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-vowel-spellchecker](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0966-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0840-magic-squares-in-grid) |
 | [0869-reordered-power-of-2](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0869-reordered-power-of-2) |
 | [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
 ## Two Pointers
 |  |
