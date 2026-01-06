@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1313-decompress-run-length-encoded-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Depth-First Search
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1015-smallest-integer-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1122-relative-sort-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bucket Sort
 |  |
 | ------- |
