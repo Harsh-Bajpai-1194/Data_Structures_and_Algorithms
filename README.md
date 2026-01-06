@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0869-reordered-power-of-2](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0869-reordered-power-of-2) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
