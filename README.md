@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1018-binary-prefix-divisible-by-5](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1486-xor-operation-in-an-array) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Backtracking
 |  |
 | ------- |
@@ -421,10 +422,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [1504-count-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0070-climbing-stairs) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Sorting
 |  |
 | ------- |
