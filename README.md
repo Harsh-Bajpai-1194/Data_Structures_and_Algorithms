@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1925-count-square-sum-triples](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1925-count-square-sum-triples) |
 ## Two Pointers
 |  |
 | ------- |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0869-reordered-power-of-2](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0869-reordered-power-of-2) |
 | [1534-count-good-triplets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1534-count-good-triplets) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1925-count-square-sum-triples) |
 ## Merge Sort
 |  |
 | ------- |
