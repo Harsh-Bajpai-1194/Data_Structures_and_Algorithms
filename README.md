@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1748-sum-of-unique-elements) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1773-count-items-matching-a-rule](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1816-truncate-sentence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1773-count-items-matching-a-rule](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
