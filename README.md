@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1695-maximum-erasure-value) |
+| [1732-find-the-highest-altitude](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1732-find-the-highest-altitude) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1590-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1732-find-the-highest-altitude) |
 ## Simulation
 |  |
 | ------- |
