@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1512-number-of-good-pairs) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Two Pointers
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1108-defanging-an-ip-address](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1108-defanging-an-ip-address) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
