@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Bucket Sort
 |  |
 | ------- |
