@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1470-shuffle-the-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1488-avoid-flood-in-the-city](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1488-avoid-flood-in-the-city) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1262-greatest-sum-divisible-by-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-new-21-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
