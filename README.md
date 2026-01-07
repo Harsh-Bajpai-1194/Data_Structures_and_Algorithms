@@ -462,12 +462,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0070-climbing-stairs) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 ## Sorting
 |  |
 | ------- |
