@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1518-water-bottles](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## Two Pointers
 |  |
 | ------- |
