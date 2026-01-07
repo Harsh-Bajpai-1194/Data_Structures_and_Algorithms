@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1695-maximum-erasure-value](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1695-maximum-erasure-value) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1748-sum-of-unique-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1717-maximum-score-from-removing-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1773-count-items-matching-a-rule](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
