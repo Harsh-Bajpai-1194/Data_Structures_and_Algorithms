@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1773-count-items-matching-a-rule](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -637,4 +639,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Design
+|  |
+| ------- |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1865-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
