@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1912-design-movie-rental-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1912-design-movie-rental-system) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1920-build-array-from-permutation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1920-build-array-from-permutation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1518-water-bottles) |
+| [1920-build-array-from-permutation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
