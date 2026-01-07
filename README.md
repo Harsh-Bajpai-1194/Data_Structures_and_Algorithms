@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1470-shuffle-the-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
