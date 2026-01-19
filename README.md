@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
+| [2043-simple-bank-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2043-simple-bank-system) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1912-design-movie-rental-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1912-design-movie-rental-system) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2043-simple-bank-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2043-simple-bank-system) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Divide and Conquer
 |  |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1920-build-array-from-permutation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2043-simple-bank-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2043-simple-bank-system) |
 ## Number Theory
 |  |
 | ------- |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1912-design-movie-rental-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1912-design-movie-rental-system) |
+| [2043-simple-bank-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2043-simple-bank-system) |
 ## Ordered Set
 |  |
 | ------- |
