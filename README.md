@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2185-counting-words-with-a-given-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
