@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2043-simple-bank-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2043-simple-bank-system) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -463,12 +464,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1534-count-good-triplets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1534-count-good-triplets) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1925-count-square-sum-triples) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Merge Sort
 |  |
