@@ -1,9 +1,5 @@
-class Solution(object):
-    def minimumSum(self, num):
-        """
-        :type num: int
-        :rtype: int
-        """
+class Solution:
+    def minimumSum(self, num: int) -> int:
         minimum=num
         num=str(num)
         L=[]
