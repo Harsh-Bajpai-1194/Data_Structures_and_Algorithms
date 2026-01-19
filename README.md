@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1912-design-movie-rental-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1912-design-movie-rental-system) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2043-simple-bank-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2043-simple-bank-system) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Divide and Conquer
 |  |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1925-count-square-sum-triples) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Recursion
 |  |
 | ------- |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1748-sum-of-unique-elements) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -674,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1925-count-square-sum-triples) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Merge Sort
 |  |
