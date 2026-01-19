@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2094-finding-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Divide and Conquer
 |  |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2094-finding-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Bucket Sort
 |  |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2043-simple-bank-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Number Theory
 |  |
 | ------- |
