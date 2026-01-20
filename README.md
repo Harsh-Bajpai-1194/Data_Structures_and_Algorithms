@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3355-zero-array-transformation-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3355-zero-array-transformation-i) |
