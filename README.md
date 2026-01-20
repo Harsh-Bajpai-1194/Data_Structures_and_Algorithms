@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2965-find-missing-and-repeated-values) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3085-minimum-deletions-to-make-string-k-special) |
