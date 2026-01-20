@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2221-find-triangular-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2402-meeting-rooms-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2092-find-all-people-with-secret) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2438-range-product-queries-of-powers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2438-range-product-queries-of-powers) |
@@ -833,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
