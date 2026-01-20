@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2843-count-symmetric-integers) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3335-total-characters-in-string-after-transformations-i) |
