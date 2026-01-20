@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2221-find-triangular-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2402-meeting-rooms-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2402-meeting-rooms-iii) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2402-meeting-rooms-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2418-sort-the-people) |
