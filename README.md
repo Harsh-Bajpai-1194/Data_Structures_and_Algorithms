@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2561-rearranging-fruits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2561-rearranging-fruits) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2211-count-collisions-on-a-road](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2418-sort-the-people](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2418-sort-the-people) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
