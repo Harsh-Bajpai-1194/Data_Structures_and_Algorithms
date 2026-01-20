@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3151-special-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3162-find-the-number-of-good-pairs-i) |
