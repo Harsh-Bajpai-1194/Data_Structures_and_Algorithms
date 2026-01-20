@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
+| [3136-valid-word](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3136-valid-word) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3227-vowels-game-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3227-vowels-game-in-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
