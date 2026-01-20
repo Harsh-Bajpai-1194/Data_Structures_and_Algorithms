@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -853,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3024-type-of-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3024-type-of-triangle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -1031,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
