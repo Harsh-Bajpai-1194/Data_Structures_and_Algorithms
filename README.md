@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3019-number-of-changing-keys](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3019-number-of-changing-keys) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3110-score-of-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3136-valid-word) |
