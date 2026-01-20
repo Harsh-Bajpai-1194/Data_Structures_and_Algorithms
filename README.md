@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2438-range-product-queries-of-powers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2438-range-product-queries-of-powers) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2561-rearranging-fruits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2561-rearranging-fruits) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2574-left-and-right-sum-differences) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3453-separate-squares-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3453-separate-squares-i) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2561-rearranging-fruits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2561-rearranging-fruits) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -761,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2438-range-product-queries-of-powers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2438-range-product-queries-of-powers) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
@@ -826,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Probability and Statistics
 |  |
 | ------- |
