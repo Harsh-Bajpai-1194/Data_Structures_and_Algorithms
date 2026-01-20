@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -842,5 +844,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Brainteaser
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2396-strictly-palindromic-number) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
