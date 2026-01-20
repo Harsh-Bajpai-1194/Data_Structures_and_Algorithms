@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2733-neither-minimum-nor-maximum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2211-count-collisions-on-a-road](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2418-sort-the-people](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2785-sort-vowels-in-a-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
