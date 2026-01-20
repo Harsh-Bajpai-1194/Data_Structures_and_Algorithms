@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2974-minimum-number-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3131-find-the-integer-added-to-array-i) |
