@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3151-special-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2483-minimum-penalty-for-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2536-increment-submatrices-by-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2574-left-and-right-sum-differences) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3333-find-the-original-typed-string-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
