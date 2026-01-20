@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3024-type-of-triangle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3021-alice-and-bob-playing-flower-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3024-type-of-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3024-type-of-triangle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3100-water-bottles-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3100-water-bottles-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-vowels-game-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3227-vowels-game-in-a-string) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2974-minimum-number-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3024-type-of-triangle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0812-largest-triangle-area) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1047,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2843-count-symmetric-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2843-count-symmetric-integers) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
