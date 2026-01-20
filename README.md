@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2418-sort-the-people](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2418-sort-the-people) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2438-range-product-queries-of-powers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2438-range-product-queries-of-powers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2561-rearranging-fruits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2561-rearranging-fruits) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2438-range-product-queries-of-powers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2438-range-product-queries-of-powers) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -886,5 +888,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2396-strictly-palindromic-number) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
