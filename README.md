@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2843-count-symmetric-integers) |
+| [3227-vowels-game-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
+| [3227-vowels-game-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3227-vowels-game-in-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3330-find-the-original-typed-string-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3330-find-the-original-typed-string-i) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3333-find-the-original-typed-string-ii) |
@@ -1022,4 +1024,9 @@ A collection of LeetCode questions to ace the coding interview!
 | [2396-strictly-palindromic-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2396-strictly-palindromic-number) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+| [3227-vowels-game-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
