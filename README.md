@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2843-count-symmetric-integers) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Backtracking
 |  |
 | ------- |
