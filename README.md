@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2402-meeting-rooms-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [2418-sort-the-people](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2418-sort-the-people) |
 | [2438-range-product-queries-of-powers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2438-range-product-queries-of-powers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2402-meeting-rooms-iii) |
+| [2418-sort-the-people](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2418-sort-the-people) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Divide and Conquer
 |  |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2211-count-collisions-on-a-road](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2211-count-collisions-on-a-road) |
+| [2418-sort-the-people](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 ## Trie
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2402-meeting-rooms-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
