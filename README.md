@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2469-convert-the-temperature](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2652-sum-multiples](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2652-sum-multiples) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2561-rearranging-fruits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2561-rearranging-fruits) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## String
