@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2843-count-symmetric-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2965-find-missing-and-repeated-values) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3100-water-bottles-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3100-water-bottles-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-vowels-game-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3227-vowels-game-in-a-string) |
