@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2235-add-two-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2652-sum-multiples](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2652-sum-multiples) |
