@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2353-design-a-food-rating-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2353-design-a-food-rating-system) |
+| [2363-merge-similar-items](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2353-design-a-food-rating-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2353-design-a-food-rating-system) |
+| [2363-merge-similar-items](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2402-meeting-rooms-iii) |
 | [2418-sort-the-people](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2418-sort-the-people) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2363-merge-similar-items](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2418-sort-the-people) |
@@ -911,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1912-design-movie-rental-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1912-design-movie-rental-system) |
 | [2353-design-a-food-rating-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2353-design-a-food-rating-system) |
+| [2363-merge-similar-items](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2363-merge-similar-items) |
 ## Segment Tree
 |  |
 | ------- |
