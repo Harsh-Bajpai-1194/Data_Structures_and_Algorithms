@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3453-separate-squares-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3408-design-task-manager](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3408-design-task-manager) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -1011,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3362-zero-array-transformation-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3362-zero-array-transformation-iii) |
 | [3408-design-task-manager](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3408-design-task-manager) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -1077,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1106,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2353-design-a-food-rating-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2353-design-a-food-rating-system) |
 | [2363-merge-similar-items](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2363-merge-similar-items) |
 | [3408-design-task-manager](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3408-design-task-manager) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1141,4 +1147,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
