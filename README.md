@@ -1032,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3408-design-task-manager](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3408-design-task-manager) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
 |  |
 | ------- |
@@ -1148,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2092-find-all-people-with-secret) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1172,4 +1174,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
