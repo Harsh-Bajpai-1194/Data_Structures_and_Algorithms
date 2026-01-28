@@ -4,7 +4,4 @@ class Solution(object):
         :type n: str
         :rtype: int
         """
-        n=list(n)
-        n.sort()
-        n="".join(n)
-        return int(n[-1])
+        return int(max(n))
