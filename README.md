@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2974-minimum-number-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3024-type-of-triangle) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3019-number-of-changing-keys](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3019-number-of-changing-keys) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -1164,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2092-find-all-people-with-secret) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Combinatorics
 |  |
@@ -1192,5 +1195,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
