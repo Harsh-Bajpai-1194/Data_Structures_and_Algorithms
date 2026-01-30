@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0120-triangle) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0682-baseball-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1504-count-submatrices-with-all-ones) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0474-ones-and-zeroes) |
@@ -1132,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
