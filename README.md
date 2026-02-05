@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3355-zero-array-transformation-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3355-zero-array-transformation-i) |
 | [3362-zero-array-transformation-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3362-zero-array-transformation-iii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3379-transformed-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3453-separate-squares-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3453-separate-squares-i) |
@@ -1044,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3379-transformed-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
