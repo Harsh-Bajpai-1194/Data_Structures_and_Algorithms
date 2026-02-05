@@ -4,7 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        L=[0]*len(nums)
-        for i in range(len(nums)): 
-            L[i]=nums[(i+nums[i])%len(nums)]
+        n=len(nums)
+        L=[0]*n
+        for i in range(n): 
+            L[i]=nums[(i+nums[i])%n]
         return L
