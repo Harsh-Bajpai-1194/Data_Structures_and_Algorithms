@@ -1,9 +1,11 @@
-class Solution:
-    def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        L=[]
+class Solution(object):
+    def smallerNumbersThanCurrent(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        L=[0]*len(nums)
         for i in range(len(nums)):
-            count=0
-            for j in range(len(nums)):
-                if nums[j]<nums[i]: count+=1
-            L.append(count)
+            for k in range(len(nums)):
+                if nums[i]>nums[k]: L[i]+=1
         return L
