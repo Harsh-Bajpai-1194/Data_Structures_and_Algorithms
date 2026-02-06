@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3454-separate-squares-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3362-zero-array-transformation-iii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |
