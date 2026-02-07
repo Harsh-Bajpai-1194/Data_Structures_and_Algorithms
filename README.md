@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3479-fruits-into-baskets-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3479-fruits-into-baskets-iii) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3433-count-mentions-per-user](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3433-count-mentions-per-user) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 ## Backtracking
 |  |
 | ------- |
