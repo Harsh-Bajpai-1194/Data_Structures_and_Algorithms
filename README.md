@@ -783,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3556-sum-of-largest-prime-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3606-coupon-code-validator](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -1146,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [3612-process-string-with-special-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
