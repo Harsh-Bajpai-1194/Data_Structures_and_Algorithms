@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3583-count-special-triplets) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3640-trionic-array-ii) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3583-count-special-triplets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3583-count-special-triplets) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3668-restore-finishing-order) |
 | [3829-design-ride-sharing-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3829-design-ride-sharing-system) |
 ## Divide and Conquer
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1045,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3467-transform-array-by-parity](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3583-count-special-triplets) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1144,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Counting Sort
 |  |
 | ------- |
