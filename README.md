@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3809-best-reachable-tower](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3809-best-reachable-tower) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3675-minimum-operations-to-transform-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## String
 |  |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3612-process-string-with-special-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3675-minimum-operations-to-transform-string) |
 | [3692-majority-frequency-characters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3692-majority-frequency-characters) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3798-largest-even-number) |
@@ -1263,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3607-power-grid-maintenance](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3607-power-grid-maintenance) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Quickselect
 |  |
 | ------- |
