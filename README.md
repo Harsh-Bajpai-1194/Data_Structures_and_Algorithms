@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1912-design-movie-rental-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1912-design-movie-rental-system) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2043-simple-bank-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2043-simple-bank-system) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1859-sorting-the-sentence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1859-sorting-the-sentence) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0386-lexicographical-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Stack
 |  |
@@ -1477,4 +1481,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3829-design-ride-sharing-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3829-design-ride-sharing-system) |
+## Hash Function
+|  |
+| ------- |
+| [1948-delete-duplicate-folders-in-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1948-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
