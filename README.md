@@ -912,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3674-minimum-operations-to-equalize-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3811-number-of-alternating-xor-partitions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3811-number-of-alternating-xor-partitions) |
+| [3827-count-monobit-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3827-count-monobit-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -1341,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3827-count-monobit-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3827-count-monobit-integers) |
 ## Merge Sort
 |  |
 | ------- |
