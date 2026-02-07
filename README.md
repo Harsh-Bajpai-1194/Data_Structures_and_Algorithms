@@ -766,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0541-reverse-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
 | [0771-jewels-and-stones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0917-reverse-only-letters) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0808-soup-servings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0808-soup-servings) |
 | [0823-binary-trees-with-factors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0823-binary-trees-with-factors) |
 | [0837-new-21-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0837-new-21-game) |
