@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3508-implement-router](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3531-count-covered-buildings) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3640-trionic-array-ii) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3508-implement-router](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3531-count-covered-buildings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3531-count-covered-buildings) |
 | [3668-restore-finishing-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3668-restore-finishing-order) |
 ## Divide and Conquer
 |  |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3433-count-mentions-per-user](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3433-count-mentions-per-user) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3467-transform-array-by-parity) |
+| [3531-count-covered-buildings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3531-count-covered-buildings) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bucket Sort
 |  |
