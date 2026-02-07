@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3809-best-reachable-tower](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3809-best-reachable-tower) |
 ## Binary Search
 |  |
 | ------- |
