@@ -826,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3692-majority-frequency-characters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3692-majority-frequency-characters) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3794-reverse-string-prefix) |
+| [3798-largest-even-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3798-largest-even-number) |
 ## Trie
 |  |
 | ------- |
