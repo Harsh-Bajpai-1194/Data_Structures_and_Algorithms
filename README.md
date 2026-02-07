@@ -732,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3675-minimum-operations-to-transform-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3798-largest-even-number) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Trie
 |  |
 | ------- |
