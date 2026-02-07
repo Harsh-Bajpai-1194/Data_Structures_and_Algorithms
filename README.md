@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3606-coupon-code-validator](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3640-trionic-array-ii) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3606-coupon-code-validator](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3668-restore-finishing-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3668-restore-finishing-order) |
 | [3829-design-ride-sharing-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3829-design-ride-sharing-system) |
 ## Divide and Conquer
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1225,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Tree
 |  |
 | ------- |
