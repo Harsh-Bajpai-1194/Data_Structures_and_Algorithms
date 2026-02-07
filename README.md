@@ -270,7 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3508-implement-router](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
-| [3531-count-covered-buildings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3531-count-covered-buildings) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3640-trionic-array-ii) |
@@ -479,7 +479,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3508-implement-router](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
-| [3531-count-covered-buildings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3531-count-covered-buildings) |
 | [3668-restore-finishing-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3668-restore-finishing-order) |
 ## Divide and Conquer
 |  |
@@ -583,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3516-find-closest-person) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -819,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -886,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3640-trionic-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Memoization
@@ -980,7 +982,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [3433-count-mentions-per-user](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3433-count-mentions-per-user) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3467-transform-array-by-parity) |
-| [3531-count-covered-buildings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3531-count-covered-buildings) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bucket Sort
 |  |
@@ -1287,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1302,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Doubly-Linked List
 |  |
 | ------- |
