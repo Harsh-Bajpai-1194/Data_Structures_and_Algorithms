@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3640-trionic-array-ii) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3508-implement-router](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3668-restore-finishing-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3668-restore-finishing-order) |
 ## Divide and Conquer
 |  |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3362-zero-array-transformation-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3362-zero-array-transformation-iii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
 | ------- |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2211-count-collisions-on-a-road](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## String Matching
 |  |
 | ------- |
@@ -1235,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
 |  |
 | ------- |
