@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3809-best-reachable-tower](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3809-best-reachable-tower) |
+| [3810-minimum-operations-to-reach-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3811-number-of-alternating-xor-partitions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3811-number-of-alternating-xor-partitions) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Binary Search
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3810-minimum-operations-to-reach-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3811-number-of-alternating-xor-partitions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3811-number-of-alternating-xor-partitions) |
 | [3829-design-ride-sharing-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3829-design-ride-sharing-system) |
 ## Divide and Conquer
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3781-maximum-score-after-binary-swaps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
+| [3810-minimum-operations-to-reach-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3810-minimum-operations-to-reach-target-array) |
 ## String
 |  |
 | ------- |
