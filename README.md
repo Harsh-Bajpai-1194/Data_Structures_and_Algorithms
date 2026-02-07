@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3701-compute-alternating-sum) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3663-find-the-least-frequent-digit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3668-restore-finishing-order) |
 | [3692-majority-frequency-characters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3692-majority-frequency-characters) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3829-design-ride-sharing-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3829-design-ride-sharing-system) |
 ## Divide and Conquer
 |  |
@@ -1081,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3692-majority-frequency-characters) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
