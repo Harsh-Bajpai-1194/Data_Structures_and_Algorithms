@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3692-majority-frequency-characters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3692-majority-frequency-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3829-design-ride-sharing-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3829-design-ride-sharing-system) |
 ## Divide and Conquer
 |  |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -1092,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3692-majority-frequency-characters) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1143,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1307,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -1361,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3477-fruits-into-baskets-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3479-fruits-into-baskets-iii) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Line Sweep
 |  |
 | ------- |
