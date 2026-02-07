@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3668-restore-finishing-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3697-compute-decimal-representation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3625-count-number-of-trapezoids-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3663-find-the-least-frequent-digit) |
+| [3697-compute-decimal-representation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3697-compute-decimal-representation) |
 ## Two Pointers
 |  |
 | ------- |
