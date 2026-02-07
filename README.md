@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3663-find-the-least-frequent-digit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3668-restore-finishing-order) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3701-compute-alternating-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3370-smallest-number-with-all-set-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -1369,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3227-vowels-game-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3227-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
 | ------- |
