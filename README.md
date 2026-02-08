@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0778-swim-in-rising-water) |
@@ -1323,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1335,6 +1337,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
