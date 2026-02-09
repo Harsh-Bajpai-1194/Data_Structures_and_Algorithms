@@ -6,7 +6,11 @@ public:
             int px=0, xp=0;
             for(vector<int>& t:trust)
             {
-                if (t[0]==i) px++;
+                if (t[0]==i) 
+                {
+                    px++;
+                    break;
+                }
                 else if (t[1]==i) xp++;
             }
             if (px==0 && xp==n-1) return i;
