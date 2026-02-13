@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3668-restore-finishing-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3668-restore-finishing-order) |
 | [3692-majority-frequency-characters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3692-majority-frequency-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3675-minimum-operations-to-transform-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3675-minimum-operations-to-transform-string) |
 | [3692-majority-frequency-characters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3692-majority-frequency-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3794-reverse-string-prefix) |
@@ -1212,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
