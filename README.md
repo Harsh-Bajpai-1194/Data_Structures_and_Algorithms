@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0191-number-of-1-bits) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1041,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0217-contains-duplicate) |
@@ -1401,11 +1404,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
