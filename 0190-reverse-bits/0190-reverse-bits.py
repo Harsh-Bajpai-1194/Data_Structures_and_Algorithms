@@ -5,8 +5,6 @@ class Solution(object):
         :rtype: int
         """
         a=bin(n)[2:]
-        b=len(a)
-        s=(32-b)*"0"+a
+        s=(32-len(a))*"0"+a
         s=s[-1::-1]
-        e=int(s,2)
-        return e
+        return int(s,2)
