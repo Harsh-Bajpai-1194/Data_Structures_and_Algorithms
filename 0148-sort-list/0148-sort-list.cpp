@@ -19,7 +19,8 @@ public:
         ListNode *head1 = head;
         ListNode *slow = head, *fast = head->next;
 
-        while(fast != nullptr && fast->next != nullptr) {
+        while(fast != nullptr && fast->next != nullptr) 
+        {
             fast = fast->next->next;
             slow = slow->next;
         }
@@ -34,25 +35,29 @@ public:
         //  Into the solution of the problem. 
         ListNode *newHead = nullptr;
         ListNode *tail = nullptr;
-        while(head1 != nullptr || head2 != nullptr) {
+        while(head1 != nullptr || head2 != nullptr) 
+        {
             ListNode *temp;
-            if(head1 != nullptr && (head2 == nullptr || head1->val <= head2->val)) {
+            if(head1 != nullptr && (head2 == nullptr || head1->val <= head2->val)) 
+            {
                 temp = head1;
                 head1 = head1->next;
-            } else {
+            } else 
+            {
                 temp = head2;
                 head2 = head2->next;
             }
 
-            if (newHead == nullptr) {
+            if (newHead == nullptr) 
+            {
                 newHead = temp;
                 tail = temp;
-            } else {
+            } else 
+            {
                 tail->next = temp;
                 tail = tail->next;
             }
         }
-
         if (tail) tail->next = nullptr;
 
         return newHead; 
