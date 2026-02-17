@@ -922,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
 | [0832-flipping-an-image](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0832-flipping-an-image) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
