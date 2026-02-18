@@ -923,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
 | [0832-flipping-an-image](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0832-flipping-an-image) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0898-bitwise-ors-of-subarrays) |
