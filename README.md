@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3719-longest-balanced-subarray-i) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0709-to-lower-case](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0761-special-binary-string) |
 | [0823-binary-trees-with-factors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0823-binary-trees-with-factors) |
 | [0869-reordered-power-of-2](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0869-reordered-power-of-2) |
 | [0905-sort-array-by-parity](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0905-sort-array-by-parity) |
