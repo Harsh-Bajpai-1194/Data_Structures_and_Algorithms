@@ -1559,4 +1559,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
