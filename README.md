@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0814-binary-tree-pruning](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1371,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
@@ -1386,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
