@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0898-bitwise-ors-of-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1486-xor-operation-in-an-array) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1262-greatest-sum-divisible-by-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1163,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0869-reordered-power-of-2](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0869-reordered-power-of-2) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
