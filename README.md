@@ -814,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1108-defanging-an-ip-address](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1108-defanging-an-ip-address) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1528-shuffle-string) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1018-binary-prefix-divisible-by-5](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1486-xor-operation-in-an-array) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1258,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1389-create-target-array-in-the-given-order) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
