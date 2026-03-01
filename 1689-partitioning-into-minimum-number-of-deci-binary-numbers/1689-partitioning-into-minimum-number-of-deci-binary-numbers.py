@@ -1,7 +1,3 @@
-class Solution(object):
-    def minPartitions(self, n):
-        """
-        :type n: str
-        :rtype: int
-        """
-        return int(max(n))
+class Solution:
+    def minPartitions(self, n: str) -> int:
+        return int(sorted(n)[-1])
