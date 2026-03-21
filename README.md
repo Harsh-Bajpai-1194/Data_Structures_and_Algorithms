@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3663-find-the-least-frequent-digit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3663-find-the-least-frequent-digit) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 | Problem Name | Difficulty |
