@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1590-make-sum-divisible-by-p) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -1050,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1504-count-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
