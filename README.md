@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2906-construct-product-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2906-construct-product-matrix/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2536-increment-submatrices-by-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2536-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2906-construct-product-matrix/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1278,6 +1280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2483-minimum-penalty-for-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2536-increment-submatrices-by-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2574-left-and-right-sum-differences) |
+| [2906-construct-product-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
