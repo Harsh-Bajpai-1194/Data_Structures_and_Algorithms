@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2906-construct-product-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2906-construct-product-matrix/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2536-increment-submatrices-by-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2536-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2769-find-the-maximum-achievable-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3024-type-of-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3024-type-of-triangle) |
@@ -1338,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2402-meeting-rooms-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2402-meeting-rooms-iii) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2974-minimum-number-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2974-minimum-number-game) |
 | [3100-water-bottles-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3100-water-bottles-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
