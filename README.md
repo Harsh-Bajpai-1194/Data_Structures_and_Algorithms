@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3379-transformed-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3433-count-mentions-per-user) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -1108,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3333-find-the-original-typed-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3333-find-the-original-typed-string-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
