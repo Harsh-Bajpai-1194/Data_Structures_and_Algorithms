@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3643-flip-square-submatrix-vertically](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3663-find-the-least-frequent-digit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3479-fruits-into-baskets-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3479-fruits-into-baskets-iii) |
 | [3508-implement-router](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3508-implement-router) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3811-number-of-alternating-xor-partitions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3811-number-of-alternating-xor-partitions) |
 ## Memoization
 | Problem Name | Difficulty |
@@ -1221,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3556-sum-of-largest-prime-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3606-coupon-code-validator](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
