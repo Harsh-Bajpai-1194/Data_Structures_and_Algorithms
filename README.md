@@ -892,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1980-find-unique-binary-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1356,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2043-simple-bank-system) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
