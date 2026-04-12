@@ -874,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1108-defanging-an-ip-address](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1108-defanging-an-ip-address) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1083,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
