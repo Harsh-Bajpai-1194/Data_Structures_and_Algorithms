@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2367-number-of-arithmetic-triplets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2367-number-of-arithmetic-triplets) |
 | [2402-meeting-rooms-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2402-meeting-rooms-iii) |
 | [2418-sort-the-people](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2418-sort-the-people) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2561-rearranging-fruits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2561-rearranging-fruits) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2353-design-a-food-rating-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2353-design-a-food-rating-system) |
 | [2418-sort-the-people](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2418-sort-the-people) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
