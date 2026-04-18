@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/mirror-distance-of-an-integer">4168. Mirror Distance of an Integer</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/mirror-distance-of-an-integer/?envType=daily-question&envId=2026-04-18">3783. Mirror Distance of an Integer</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code>.</p>
 
 <p>Define its <strong>mirror distance</strong> as: <code>abs(n - reverse(n))</code>​​​​​​​ where <code>reverse(n)</code> is the integer formed by reversing the digits of <code>n</code>.</p>
 
