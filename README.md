@@ -943,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2833-furthest-point-from-origin](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1298,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2048-next-greater-numerically-balanced-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
