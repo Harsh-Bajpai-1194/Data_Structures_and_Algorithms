@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0415-add-strings) |
 | [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0788-rotated-digits/) | Medium |
 | [0808-soup-servings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0808-soup-servings) |
 | [0812-largest-triangle-area](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0812-largest-triangle-area) |
 | [0837-new-21-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0837-new-21-game) |
@@ -1122,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0396-rotate-function/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0788-rotated-digits/) | Medium |
 | [0799-champagne-tower](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0799-champagne-tower) |
 | [0808-soup-servings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0808-soup-servings) |
 | [0823-binary-trees-with-factors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0823-binary-trees-with-factors) |
