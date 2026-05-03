@@ -907,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0796-rotate-string/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1036,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0796-rotate-string/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Bit Manipulation
