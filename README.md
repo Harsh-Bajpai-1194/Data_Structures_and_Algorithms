@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1672-richest-customer-wealth) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1695-maximum-erasure-value) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1488-avoid-flood-in-the-city](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1488-avoid-flood-in-the-city) |
 | [1512-number-of-good-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1590-make-sum-divisible-by-p) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1695-maximum-erasure-value) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1733-minimum-number-of-people-to-teach) |
@@ -1391,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1590-make-sum-divisible-by-p) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1895-largest-magic-square](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1895-largest-magic-square) |
