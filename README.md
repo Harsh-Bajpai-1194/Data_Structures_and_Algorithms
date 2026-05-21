@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3024-type-of-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3024-type-of-triangle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -1008,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3019-number-of-changing-keys](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3019-number-of-changing-keys) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3110-score-of-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3136-valid-word) |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1948-delete-duplicate-folders-in-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
