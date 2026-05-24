@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1306-jump-game-iii/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1313-decompress-run-length-encoded-list) |
+| [1340-jump-game-v](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1345-jump-game-iv/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1179,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1262-greatest-sum-divisible-by-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1340-jump-game-v](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1340-jump-game-v/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1274,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1122-relative-sort-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1340-jump-game-v](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1340-jump-game-v/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
