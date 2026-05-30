@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3131-find-the-integer-added-to-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3151-special-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3151-special-array-i) |
+| [3161-block-placement-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3161-block-placement-queries/) | Hard |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2540-minimum-common-value](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2540-minimum-common-value/) | Easy |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3161-block-placement-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3161-block-placement-queries/) | Hard |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1720,6 +1722,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1622-fancy-sequence/) | Hard |
+| [3161-block-placement-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3161-block-placement-queries/) | Hard |
 | [3454-separate-squares-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3454-separate-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3479-fruits-into-baskets-iii) |
@@ -1823,4 +1826,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
