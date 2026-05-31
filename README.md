@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2126-destroying-asteroids](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -1308,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2092-find-all-people-with-secret](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2092-find-all-people-with-secret) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2126-destroying-asteroids](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
