@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2126-destroying-asteroids](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
@@ -897,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2126-destroying-asteroids](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -1312,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2126-destroying-asteroids](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
