@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3625-count-number-of-trapezoids-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3637-trionic-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3488-closest-equal-element-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3508-implement-router](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3508-implement-router) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Depth-First Search
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3794-reverse-string-prefix) |
 ## Greedy
@@ -924,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3474-lexicographically-smallest-generated-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3675-minimum-operations-to-transform-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3675-minimum-operations-to-transform-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3781-maximum-score-after-binary-swaps) |
@@ -1357,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3556-sum-of-largest-prime-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3606-coupon-code-validator](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3731-find-missing-elements) |
