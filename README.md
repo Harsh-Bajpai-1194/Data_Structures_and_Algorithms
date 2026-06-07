@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2353-design-a-food-rating-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2353-design-a-food-rating-system) |
 | [2363-merge-similar-items](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2363-merge-similar-items) |
@@ -1630,6 +1632,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -1646,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
