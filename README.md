@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3811-number-of-alternating-xor-partitions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3811-number-of-alternating-xor-partitions) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
+| [3838-weighted-word-mapping](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1076,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3794-reverse-string-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3798-largest-even-number) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
+| [3838-weighted-word-mapping](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1553,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3838-weighted-word-mapping](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
