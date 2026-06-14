@@ -866,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -1103,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1717-maximum-score-from-removing-substrings) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1712,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Monotonic Stack
