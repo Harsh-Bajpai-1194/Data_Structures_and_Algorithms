@@ -864,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1861-rotating-the-box/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -1714,6 +1715,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
