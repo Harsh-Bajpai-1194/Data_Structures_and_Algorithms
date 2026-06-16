@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/process-string-with-special-operations-i">3931. Process String with Special Operations I</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters and the special characters: <code>*</code>, <code>#</code>, and <code>%</code>.</p>
+<h2><a href="https://leetcode.com/problems/process-string-with-special-operations-i">3612. Process String with Special Operations I</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters and the special characters: <code>*</code>, <code>#</code>, and <code>%</code>.</p>
 
 <p>Build a new string <code>result</code> by processing <code>s</code> according to the following rules from left to right:</p>
 
