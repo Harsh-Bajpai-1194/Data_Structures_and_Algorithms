@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1792-maximum-average-pass-ratio](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1792-maximum-average-pass-ratio) |
 | [1816-truncate-sentence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1792-maximum-average-pass-ratio](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1792-maximum-average-pass-ratio) |
+| [1833-maximum-ice-cream-bars](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -1332,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1840-maximum-building-height/) | Hard |
 | [1859-sorting-the-sentence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1586,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
