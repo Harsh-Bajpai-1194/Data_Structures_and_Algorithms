@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-subarrays-with-majority-element-i">4074. Count Subarrays With Majority Element I</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and an integer <code>target</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-subarrays-with-majority-element-i">3737. Count Subarrays With Majority Element I</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and an integer <code>target</code>.</p>
 
 <p>Return the number of <strong><span data-keyword="subarray-nonempty">subarrays</span></strong> of <code>nums</code> in which <code>target</code> is the <strong>majority element</strong>.</p>
 
