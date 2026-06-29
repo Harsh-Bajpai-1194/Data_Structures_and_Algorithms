@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1920-build-array-from-permutation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1026,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
