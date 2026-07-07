@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0561-array-partition](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
@@ -1133,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1504-count-submatrices-with-all-ones) |
@@ -1778,6 +1780,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
