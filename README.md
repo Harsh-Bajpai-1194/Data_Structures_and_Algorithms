@@ -858,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
