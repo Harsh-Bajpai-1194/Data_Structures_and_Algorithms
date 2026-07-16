@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3811-number-of-alternating-xor-partitions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3811-number-of-alternating-xor-partitions) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3838-weighted-word-mapping](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3794-reverse-string-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1450,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1627,6 +1631,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3701-compute-alternating-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1640,6 +1645,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
