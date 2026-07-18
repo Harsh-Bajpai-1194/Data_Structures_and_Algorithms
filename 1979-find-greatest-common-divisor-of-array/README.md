@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-greatest-common-divisor-of-array">2106. Find Greatest Common Divisor of Array</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code>, return<strong> </strong><em>the <strong>greatest common divisor</strong> of the smallest number and largest number in </em><code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-greatest-common-divisor-of-array/?envType=daily-question&envId=2026-07-18">1979. Find Greatest Common Divisor of Array</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code>, return<strong> </strong><em>the <strong>greatest common divisor</strong> of the smallest number and largest number in </em><code>nums</code>.</p>
 
 <p>The <strong>greatest common divisor</strong> of two numbers is the largest positive integer that evenly divides both numbers.</p>
 
