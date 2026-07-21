@@ -1123,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3498-reverse-degree-of-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3561-resulting-string-after-adjacent-removals) |
@@ -1789,6 +1790,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3713-longest-balanced-substring-i) |
