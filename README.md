@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3508-implement-router](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3516-find-closest-person](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3516-find-closest-person) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3561-resulting-string-after-adjacent-removals) |
@@ -1523,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3467-transform-array-by-parity](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3467-transform-array-by-parity) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -1937,6 +1941,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2221-find-triangular-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Brainteaser
