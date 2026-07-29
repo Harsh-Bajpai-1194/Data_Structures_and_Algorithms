@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1695-maximum-erasure-value) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1732-find-the-highest-altitude) |
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1504-count-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -1617,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1929-concatenation-of-array) |
@@ -1730,6 +1733,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [3508-implement-router](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3508-implement-router) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
