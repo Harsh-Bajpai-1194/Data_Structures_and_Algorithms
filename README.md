@@ -2011,6 +2011,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0595-big-countries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0620-not-boring-movies/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0627-swap-sex-of-employees/) | Easy |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
