@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1281,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0486-predict-the-winner/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
@@ -1295,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0120-triangle) |
 | [0396-rotate-function](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0396-rotate-function/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0486-predict-the-winner/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0788-rotated-digits/) | Medium |
 | [0799-champagne-tower](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0799-champagne-tower) |
@@ -1964,6 +1968,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0877-stone-game/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3227-vowels-game-in-a-string) |
 ## Bitmask DP
