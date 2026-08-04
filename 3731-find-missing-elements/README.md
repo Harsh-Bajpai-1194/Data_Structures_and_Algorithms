@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-missing-elements">4107. Find Missing Elements</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> consisting of <strong>unique</strong> integers.</p>
+<h2><a href="https://leetcode.com/problems/find-missing-elements">3731. Find Missing Elements</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> consisting of <strong>unique</strong> integers.</p>
 
 <p>Originally, <code>nums</code> contained <strong>every integer</strong> within a certain range. However, some integers might have gone <strong>missing</strong> from the array.</p>
 
