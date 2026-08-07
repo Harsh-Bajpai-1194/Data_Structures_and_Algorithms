@@ -866,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3433-count-mentions-per-user) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3362-zero-array-transformation-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3362-zero-array-transformation-iii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1144,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3330-find-the-original-typed-string-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3330-find-the-original-typed-string-i) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3333-find-the-original-typed-string-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3335-total-characters-in-string-after-transformations-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1280,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1980-find-unique-binary-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1695,6 +1699,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2413-smallest-even-multiple](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2413-smallest-even-multiple) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3591-check-if-any-element-has-prime-frequency) |
