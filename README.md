@@ -949,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -1013,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3362-zero-array-transformation-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3362-zero-array-transformation-iii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
@@ -1143,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3280-convert-date-to-binary](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3280-convert-date-to-binary) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3330-find-the-original-typed-string-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3330-find-the-original-typed-string-i) |
 | [3333-find-the-original-typed-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3333-find-the-original-typed-string-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -1360,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3333-find-the-original-typed-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3333-find-the-original-typed-string-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
