@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0778-swim-in-rising-water) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
@@ -1293,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0037-sudoku-solver) |
+| [0257-binary-tree-paths](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0401-binary-watch](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
@@ -1812,6 +1815,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1831,6 +1835,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
