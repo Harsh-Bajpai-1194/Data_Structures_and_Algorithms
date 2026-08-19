@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -987,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1323-maximum-69-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1323-maximum-69-number) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1488-avoid-flood-in-the-city](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1488-avoid-flood-in-the-city) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1261,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1018-binary-prefix-divisible-by-5](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1486-xor-operation-in-an-array) |
