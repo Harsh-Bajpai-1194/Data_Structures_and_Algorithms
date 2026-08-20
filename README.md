@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1703,6 +1704,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2751-robot-collisions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2974-minimum-number-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3100-water-bottles-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3100-water-bottles-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
