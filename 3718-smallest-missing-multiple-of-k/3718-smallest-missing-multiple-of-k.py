@@ -1,9 +1,8 @@
-class Solution(object):
-    def missingMultiple(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
-        for i in range(1,10000):
-            if k*i not in nums: return k*i
+class Solution:
+    def missingMultiple(self, nums: List[int], k: int) -> int:
+        x = 0
+        for n in nums:
+            if not (n % k):
+                i = (n // k) - 1
+                x |= 1 << i
+        return ((x + 1) & ~x).bit_length() * k
