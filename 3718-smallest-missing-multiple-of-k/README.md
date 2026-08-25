@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-missing-multiple-of-k">4080. Smallest Missing Multiple of K</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, return the <strong>smallest positive multiple</strong> of <code>k</code> that is <strong>missing</strong> from <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/smallest-missing-multiple-of-k">3718. Smallest Missing Multiple of K</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, return the <strong>smallest positive multiple</strong> of <code>k</code> that is <strong>missing</strong> from <code>nums</code>.</p>
 
 <p>A <strong>multiple</strong> of <code>k</code> is any positive integer divisible by <code>k</code>.</p>
 
