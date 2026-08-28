@@ -979,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3794-reverse-string-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
@@ -1204,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3713-longest-balanced-substring-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -1902,6 +1904,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3827-count-monobit-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3827-count-monobit-integers) |
