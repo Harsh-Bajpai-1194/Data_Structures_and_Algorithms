@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2965-find-missing-and-repeated-values) |
@@ -1521,6 +1522,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2974-minimum-number-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -2003,6 +2005,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2573-find-the-string-with-lcp](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3607-power-grid-maintenance](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3607-power-grid-maintenance) |
