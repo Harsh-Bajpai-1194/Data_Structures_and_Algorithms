@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2054-two-best-non-overlapping-events](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1019,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1975-maximum-matrix-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
