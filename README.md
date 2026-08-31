@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0386-lexicographical-numbers) |
@@ -1849,6 +1850,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0814-binary-tree-pruning) |
@@ -1869,6 +1871,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0814-binary-tree-pruning) |
@@ -2100,6 +2103,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Rolling Hash
 | Problem Name | Difficulty |
