@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0066-plus-one) |
@@ -1324,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0046-permutations/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0401-binary-watch](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
