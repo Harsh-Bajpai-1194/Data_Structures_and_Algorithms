@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+/*
 select email
 from (
 select email
@@ -6,9 +7,8 @@ select email
 from person
 group by email) as ABC
 where ABC.occurences > 1;
-/*
+*/
 select email
 from person
 group by email
 having count(id) > 1
-*/
