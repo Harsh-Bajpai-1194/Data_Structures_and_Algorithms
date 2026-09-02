@@ -1333,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0077-combinations/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0401-binary-watch](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0526-beautiful-arrangement/) | Medium |
