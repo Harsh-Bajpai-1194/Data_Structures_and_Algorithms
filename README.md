@@ -1088,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0165-compare-version-numbers) |
@@ -1369,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0120-triangle) |
 | [0396-rotate-function](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0396-rotate-function/) | Medium |
