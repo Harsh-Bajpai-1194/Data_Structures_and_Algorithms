@@ -939,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3871-count-commas-in-range-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Two Pointers
