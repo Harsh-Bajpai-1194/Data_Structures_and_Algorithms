@@ -2193,4 +2193,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
