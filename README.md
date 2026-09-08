@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1306-jump-game-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1306-jump-game-iii/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -1396,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-number-of-paths-with-max-score](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1340-jump-game-v/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1406-stone-game-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1406-stone-game-iii/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -1884,6 +1886,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2322-minimum-score-after-removals-on-a-tree) |
@@ -1905,6 +1908,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Enumeration
@@ -2132,6 +2136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -2184,4 +2189,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1510-stone-game-iv/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
