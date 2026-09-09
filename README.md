@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0386-lexicographical-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0778-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0778-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0909-snakes-and-ladders](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0909-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1355,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0526-beautiful-arrangement](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -2056,6 +2059,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0997-find-the-town-judge) |
 | [2092-find-all-people-with-secret](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -2203,4 +2207,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0169-majority-element/) | Easy |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 <!---LeetCode Topics End-->
