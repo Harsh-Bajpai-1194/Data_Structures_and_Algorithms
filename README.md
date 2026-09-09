@@ -965,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0696-count-binary-substrings) |
@@ -1102,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0474-ones-and-zeroes) |
@@ -1377,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0120-triangle) |
+| [0392-is-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0396-rotate-function/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0486-predict-the-winner/) | Medium |
