@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3477-fruits-into-baskets-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3479-fruits-into-baskets-iii) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3408-design-task-manager](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3408-design-task-manager) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3508-implement-router](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3508-implement-router) |
@@ -1376,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2094-finding-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1949,6 +1952,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
