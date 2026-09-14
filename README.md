@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0162-find-peak-element) |
@@ -1299,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0231-power-of-two) |
