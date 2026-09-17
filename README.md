@@ -2191,6 +2191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1484-group-sold-products-by-the-date](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1729-find-followers-count](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1729-find-followers-count/) | Easy |
+| [3220-odd-and-even-transactions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3436-find-valid-emails](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3436-find-valid-emails/) | Easy |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
