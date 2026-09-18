@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1488-avoid-flood-in-the-city) |
 | [1512-number-of-good-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -1042,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1488-avoid-flood-in-the-city](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1488-avoid-flood-in-the-city) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -1153,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1528-shuffle-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1528-shuffle-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
@@ -1546,6 +1549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
