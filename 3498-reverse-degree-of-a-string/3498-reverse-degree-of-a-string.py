@@ -1,9 +1,7 @@
-class Solution(object):
-    def reverseDegree(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        n=0
-        for i in range(len(s)): n+=(123-ord(s[i]))*(i+1)
-        return n
+class Solution:
+    def reverseDegree(self, s: str) -> int:
+        s1="[abcdefghijklmnopqrstuvwxyz"
+        sum=0
+        for i in range(len(s)):
+            sum+=(27-s1.index(s[i]))*(i+1)
+        return sum
