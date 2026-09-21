@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3516-find-closest-person](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3516-find-closest-person) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -1479,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+| [3524-find-x-value-of-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
