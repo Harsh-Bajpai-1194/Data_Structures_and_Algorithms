@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3516-find-closest-person](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3516-find-closest-person) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -2070,6 +2072,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3479-fruits-into-baskets-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3479-fruits-into-baskets-iii) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
