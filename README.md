@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0137-single-number-ii/) | Medium |
+| [0140-word-break-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0140-word-break-ii/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0162-find-peak-element) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0140-word-break-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0140-word-break-ii/) | Hard |
 | [0166-fraction-to-recurring-decimal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0217-contains-duplicate) |
@@ -1122,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0125-valid-palindrome) |
+| [0140-word-break-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0140-word-break-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1272,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0140-word-break-ii/) | Hard |
 | [0386-lexicographical-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -1379,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0077-combinations/) | Medium |
+| [0140-word-break-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0140-word-break-ii/) | Hard |
 | [0257-binary-tree-paths](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0401-binary-watch](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -1413,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0120-triangle) |
+| [0140-word-break-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0140-word-break-ii/) | Hard |
 | [0392-is-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0396-rotate-function/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0474-ones-and-zeroes) |
@@ -1505,6 +1511,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0140-word-break-ii/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
