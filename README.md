@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-all-paths-from-source-to-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0909-snakes-and-ladders](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0909-snakes-and-ladders) |
+| [1096-brace-expansion-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1345-jump-game-iv/) | Hard |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0997-find-the-town-judge](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0997-find-the-town-judge) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1122-relative-sort-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -1160,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-vowel-spellchecker](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0966-vowel-spellchecker) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -1299,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1504-count-submatrices-with-all-ones) |
@@ -1395,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0679-24-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0756-pyramid-transition-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -1556,6 +1561,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1096-brace-expansion-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1122-relative-sort-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1262-greatest-sum-divisible-by-three) |
