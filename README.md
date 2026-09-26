@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1773-count-items-matching-a-rule) |
 | [1792-maximum-average-pass-ratio](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1792-maximum-average-pass-ratio) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1816-truncate-sentence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1695-maximum-erasure-value](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1695-maximum-erasure-value) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1748-sum-of-unique-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1865-finding-pairs-with-a-certain-sum) |
@@ -1183,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1717-maximum-score-from-removing-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1773-count-items-matching-a-rule](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/Python3/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1816-truncate-sentence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1859-sorting-the-sentence) |
