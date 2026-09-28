@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1306-jump-game-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1306-jump-game-iii/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1096-brace-expansion-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1306-jump-game-iii/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1345-jump-game-iv](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -2113,6 +2115,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -2130,6 +2133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0997-find-the-town-judge) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2685-count-the-number-of-complete-components/) | Medium |
