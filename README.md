@@ -1180,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1528-shuffle-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1528-shuffle-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -1314,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -2291,4 +2293,5 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
