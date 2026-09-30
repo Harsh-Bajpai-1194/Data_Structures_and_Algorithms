@@ -2237,6 +2237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0176-second-highest-salary/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0182-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0595-big-countries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0595-big-countries) |
