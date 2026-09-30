@@ -7,7 +7,7 @@ class Solution:
             if seq[i]=="(":
                 L.append(depth % 2)
                 depth=depth+1
-            if seq[i]==")":
+            else:
                 depth=depth-1
                 L.append(depth % 2)
         return L
