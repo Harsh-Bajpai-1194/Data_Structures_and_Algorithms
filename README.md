@@ -1051,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
@@ -1155,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0541-reverse-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0696-count-binary-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1313,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -1453,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0486-predict-the-winner/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0788-rotated-digits/) | Medium |
 | [0799-champagne-tower](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0799-champagne-tower) |
@@ -2307,6 +2311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
