@@ -1053,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -1166,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0796-rotate-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0856-score-of-parentheses/) | Medium |
 | [0917-reverse-only-letters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1319,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -2315,6 +2318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
