@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2751-robot-collisions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -2038,6 +2039,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2094-finding-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2367-number-of-arithmetic-triplets) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2843-count-symmetric-integers) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
