@@ -977,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3663-find-the-least-frequent-digit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3697-compute-decimal-representation) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -1133,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3689-maximum-total-subarray-value-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
