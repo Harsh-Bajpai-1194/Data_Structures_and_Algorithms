@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2906-construct-product-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2906-construct-product-matrix/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2784-check-if-array-is-good](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2965-find-missing-and-repeated-values) |
@@ -2139,6 +2141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1622-fancy-sequence/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3161-block-placement-queries/) | Hard |
 | [3454-separate-squares-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3454-separate-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3477-fruits-into-baskets-ii) |
@@ -2293,6 +2296,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3161-block-placement-queries/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
