@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1550-three-consecutive-odds](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1550-three-consecutive-odds) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0761-special-binary-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
@@ -894,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1513-number-of-substrings-with-only-1s](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1518-water-bottles](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1622-fancy-sequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1622-fancy-sequence/) | Hard |
@@ -1511,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1504-count-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1575,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0140-word-break-ii/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
@@ -2013,6 +2018,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2322-minimum-score-after-removals-on-a-tree) |
@@ -2036,6 +2042,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Enumeration
@@ -2170,6 +2177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -2202,6 +2210,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -2274,6 +2283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2357,4 +2367,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
