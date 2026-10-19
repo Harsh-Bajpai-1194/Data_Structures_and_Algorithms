@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2054-two-best-non-overlapping-events](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1970-last-day-where-you-can-still-cross](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2054-two-best-non-overlapping-events](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -1647,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2092-find-all-people-with-secret](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2092-find-all-people-with-secret) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
