@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3886-sum-of-sortable-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
