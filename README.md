@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3637-trionic-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -1438,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3811-number-of-alternating-xor-partitions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3811-number-of-alternating-xor-partitions) |
