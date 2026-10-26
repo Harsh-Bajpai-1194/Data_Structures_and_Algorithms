@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3623-count-number-of-trapezoids-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3607-power-grid-maintenance](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3607-power-grid-maintenance](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3546-equal-sum-grid-partition-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
@@ -2204,6 +2208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3607-power-grid-maintenance](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
