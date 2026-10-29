@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3811-number-of-alternating-xor-partitions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3811-number-of-alternating-xor-partitions) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3838-weighted-word-mapping](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3607-power-grid-maintenance](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3607-power-grid-maintenance) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3721-longest-balanced-subarray-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1335,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3798-largest-even-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3798-largest-even-number) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3838-weighted-word-mapping](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -1454,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3811-number-of-alternating-xor-partitions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3811-number-of-alternating-xor-partitions) |
 | [3827-count-monobit-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3827-count-monobit-integers) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -2051,6 +2056,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2190,6 +2196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3721-longest-balanced-subarray-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Line Sweep
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2340,6 +2347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3161-block-placement-queries/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
