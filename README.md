@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0518-coin-change-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0561-array-partition](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0594-longest-harmonious-subsequence) |
@@ -1521,6 +1522,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0396-rotate-function/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0486-predict-the-winner/) | Medium |
+| [0518-coin-change-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -2423,8 +2425,10 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
