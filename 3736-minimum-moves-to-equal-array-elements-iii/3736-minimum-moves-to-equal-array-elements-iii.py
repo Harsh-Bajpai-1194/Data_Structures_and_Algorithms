@@ -1,9 +1,8 @@
-class Solution(object):
-    def minMoves(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def minMoves(self, nums: List[int]) -> int:
+        maximum=max(nums)
         c=0
-        for i in nums: c+=max(nums)-i
+        n=len(nums)
+        for i in range(n):
+            c+=maximum-nums[i]
         return c
