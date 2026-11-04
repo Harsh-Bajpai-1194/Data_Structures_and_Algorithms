@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3508-implement-router](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3508-implement-router](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3508-implement-router) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -991,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -1596,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
@@ -1832,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -2009,6 +2014,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3362-zero-array-transformation-iii) |
 | [3408-design-task-manager](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3408-design-task-manager) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3607-power-grid-maintenance](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3607-power-grid-maintenance) |
