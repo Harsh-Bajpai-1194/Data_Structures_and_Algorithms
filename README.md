@@ -1228,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1096-brace-expansion-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -1536,6 +1537,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-distinct-subsequences-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1140-stone-game-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1140-stone-game-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -2431,4 +2433,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0518-coin-change-ii/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
