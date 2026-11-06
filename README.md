@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2615-sum-of-distances](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -1717,6 +1719,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2561-rearranging-fruits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2561-rearranging-fruits) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2733-neither-minimum-nor-maximum) |
+| [2747-count-zero-request-servers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2785-sort-vowels-in-a-string) |
@@ -1832,6 +1835,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [2747-count-zero-request-servers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
