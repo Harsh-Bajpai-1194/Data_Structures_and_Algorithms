@@ -4,7 +4,7 @@ class Solution:
         ans = 0
         operations = 0
         q = []
-        cnt = [[] for _ in range(n)]
+        cnt = [[] for i in range(n)]
         pos = [n] * n
         st = []
         left = 0
