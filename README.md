@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3433-count-mentions-per-user) |
@@ -1415,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2751-robot-collisions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2751-robot-collisions/) | Hard |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## String Matching
@@ -1856,6 +1858,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
@@ -2057,6 +2060,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3508-implement-router](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3508-implement-router) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3829-design-ride-sharing-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3829-design-ride-sharing-system) |
@@ -2188,6 +2192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
 | Problem Name | Difficulty |
@@ -2232,6 +2237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3161-block-placement-queries/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3454-separate-squares-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3454-separate-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3479-fruits-into-baskets-iii) |
@@ -2345,6 +2351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sweep Line
 | Problem Name | Difficulty |
