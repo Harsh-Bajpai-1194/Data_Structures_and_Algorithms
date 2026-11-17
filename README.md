@@ -1099,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2540-minimum-common-value](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -1317,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2942-find-words-containing-character](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2942-find-words-containing-character) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1605,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
