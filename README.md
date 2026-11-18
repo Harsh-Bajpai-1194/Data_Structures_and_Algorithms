@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
+| [0743-network-delay-time](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0814-binary-tree-pruning) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0322-coin-change/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
+| [0743-network-delay-time](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -2023,6 +2025,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0407-trapping-rain-water-ii) |
+| [0743-network-delay-time](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0912-sort-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -2287,6 +2290,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -2351,6 +2355,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0743-network-delay-time/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -2485,4 +2490,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1143-longest-common-subsequence/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
