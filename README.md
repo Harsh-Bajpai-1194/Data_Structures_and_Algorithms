@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2540-minimum-common-value](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2561-rearranging-fruits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2561-rearranging-fruits) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2561-rearranging-fruits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2561-rearranging-fruits) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -1744,6 +1746,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2418-sort-the-people](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2418-sort-the-people) |
 | [2463-minimum-total-distance-traveled](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2561-rearranging-fruits](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2561-rearranging-fruits) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2733-neither-minimum-nor-maximum) |
 | [2747-count-zero-request-servers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2747-count-zero-request-servers/) | Medium |
