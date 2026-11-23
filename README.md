@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0120-triangle) |
+| [0130-surrounded-regions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0137-single-number-ii/) | Medium |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0130-surrounded-regions/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0130-surrounded-regions/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0322-coin-change/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0407-trapping-rain-water-ii) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0130-surrounded-regions/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
@@ -2283,6 +2287,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0130-surrounded-regions/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
