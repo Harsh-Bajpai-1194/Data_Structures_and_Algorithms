@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3886-sum-of-sortable-integers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
+| [3934-smallest-unique-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -878,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3811-number-of-alternating-xor-partitions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3811-number-of-alternating-xor-partitions) |
 | [3829-design-ride-sharing-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3829-design-ride-sharing-system) |
+| [3934-smallest-unique-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2412,6 +2415,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1948-delete-duplicate-folders-in-system) |
+| [3934-smallest-unique-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2423,6 +2427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2526,4 +2531,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/0743-network-delay-time/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
