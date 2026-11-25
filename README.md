@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2140-solving-questions-with-brainpower](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -1612,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [2054-two-best-non-overlapping-events](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2140-solving-questions-with-brainpower](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
