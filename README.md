@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3904-smallest-stable-index-ii](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1223,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3810-minimum-operations-to-reach-target-array) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1669,6 +1671,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3811-number-of-alternating-xor-partitions](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/master/3811-number-of-alternating-xor-partitions) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Harsh-Bajpai-1194/Data_Structures_and_Algorithms/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
